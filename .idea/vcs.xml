@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/lab4/SPADE" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab4/SPADE/models/networks/Synchronized-BatchNorm-PyTorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab4/semantic-segmentation-pytorch" vcs="Git" />
+  </component>
+</project>
